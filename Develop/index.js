@@ -1,5 +1,5 @@
 // TODO: Include packages needed for this application
-const generateMarkdown = require('.utils/generateMarkdown');
+const generateMarkdown = require('./utils/generateMarkdown');
 const fs = require('fs');
 const inquirer = require('inquirer');
 
@@ -47,7 +47,6 @@ const questions = [{
             'MIT License',
             'Boost Software License 1.0',
             'The Unlicense'
-
         ]
     }
 
