@@ -35,7 +35,7 @@ const questions = [{
         message: 'What message do you have for your contributors?'
     },
     {
-        type: 'input',
+        type: 'list',
         name: 'license',
         message: 'Please choose a license:',
         choices: [
