@@ -21,6 +21,8 @@ Downloading or cloning the GITHUB repo and installin npm depedencies.
 
 ## **_Usage_**
 ![alt text](Develop\assets\images\ReadMe.md Generator screenshot 2.png)
+![ReadMe md Generator screenshot 2](https://user-images.githubusercontent.com/71949043/116752452-72cd4b00-a9ba-11eb-95f3-15cba11cb392.png)
+
 
 
 
