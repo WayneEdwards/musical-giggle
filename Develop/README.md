@@ -1,8 +1,8 @@
-# **Professional ReadME Generator**
+# **Professional README Generator**
 
     >## **_Description_**
 
-    An app that allows users to create a professional README.md
+    This application allows users to create a professional README.md.
 
     ---
     ### **_Table of Contents_**
@@ -16,12 +16,12 @@
     >##**_Installation_**
 
     ```
-    Download or clone from GitHub repo and install dependencies such as inquirer and node.js from npm lib
+    Downloading or cloning the GITHUB repo and installing npm depencies.
     ```
 
     >##**_Usage_**
 
-    Use CLI terminal to type node commands to prompt the programt ask a series of questions.
+    Using node.js and the inquirernpm package.
 
     >##**_Credits_**
 
@@ -29,21 +29,21 @@
 
     >##**_Features_**
 
-    Createing a well detaled README.md for use on all types of projects.
+    Using the CLI terminal to answer a series of questions via prompts to give details of the project.
 
     >##**_Contributing_**
 
     If you created an application or package and would like other developers to contribute it, you will want to add guidelines for how to do so. The [Contributor Covenant](https://www.contributor-covenant.org/) is an industry standard, but you can always write your own.
 
-    Thank you to all of those who helped me! I couldn't have done it without you.
+    Thank you! I couldn't have done it without you.
 
     >##**_License_**
 
-    ![GNU GPLv3](https://img.shields.io/badge/license-GNU%20GPLv3-blue.svg)
+    ![GNU LGPLv3](https://img.shields.io/badge/license-GNU%20LGPLv3-blue.svg)
 
     Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
       Everyone is permitted to copy and distribute verbatim copies
       of this license document, but changing it is not allowed.
 
-    https://choosealicense.com/licenses/gpl-3.0/
+    https://choosealicense.com/licenses/lgpl-3.0/
 
